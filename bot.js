@@ -707,7 +707,7 @@ if (message.content === '$spam') {
 
 
 client.on('message', message => {
-    if(message.content === '!rep'){
+    if(message.content === '$rep'){
         message.channel.send("#rep "+"<@" + myid + ">")
     }
 });
@@ -719,43 +719,43 @@ client2.on('message', message => {
 });
 
 client3.on('message', message => {
-    if(message.content === '!rep'){
+    if(message.content === '$rep'){
         message.channel.send("#rep "+"<@" + myid + ">")
     }
 });
 
 client4.on('message', message => {
-    if(message.content === '!rep'){
+    if(message.content === '$rep'){
         message.channel.send("#rep "+"<@" + myid + ">")
     }
 });
 
 client5.on('message', message => {
-    if(message.content === '!rep'){
+    if(message.content === '$rep'){
         message.channel.send("#rep "+"<@" + myid + ">")
     }
 });
 
 client5.on('message', message => {
-    if(message.content === '!rep'){
+    if(message.content === '$rep'){
         message.channel.send("#rep "+"<@" + myid + ">")
     }
 });
 
 client6.on('message', message => {
-    if(message.content === '!rep'){
+    if(message.content === '$rep'){
         message.channel.send("#rep "+"<@" + myid + ">")
     }
 });
 
 client7.on('message', message => {
-    if(message.content === '!rep'){
+    if(message.content === '$rep'){
         message.channel.send("#rep "+"<@" + myid + ">")
     }
 });
 
 client8.on('message', message => {
-    if(message.content === '!rep'){
+    if(message.content === '$rep'){
         message.channel.send("#rep "+"<@" + myid + ">")
     }
 });
